@@ -1,3 +1,6 @@
+---
+layout: index
+---
 <div class="new">NEW</div>
         <h1>Window Shop is here.</h1>
         <div class="kv1">

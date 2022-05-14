@@ -1,3 +1,6 @@
+---
+layout: index
+---
 <div class="imprintcontent">
             <h1>Imprint</h1>
             <p>
