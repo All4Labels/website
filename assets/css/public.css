@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Inter";
+    src: url('fonts/Inter-UI-Bold.woff2') format("woff2"),
+         url("fonts/Inter-UI-Bold.woff") format("woff");
+    font-stretch: "Bold";
+    font-weight: 800;
+  }
+  @font-face {
+    font-family: "Inter";
+    src: url("fonts/Inter-UI-Regular.woff2") format("woff2"),
+         url("fonts/Inter-UI-Regular.woff") format("woff");
+    font-stretch: "normal";
+    font-weight: 400;
+  }
+  
+.head {
+     width: 100%;
+     height: 60px;
+     position: relative;
+ }
+ 
+ .logo {
+     position: absolute;
+     left: 0px;
+     width: 154px;
+     height: 36px;
+     background: url('images/logo.png');
+     margin: 12px 12px;
+ }
+ 

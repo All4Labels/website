@@ -1,0 +1,320 @@
+body {
+    margin: 0;
+    background-color: #fff;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
+
+
+
+.main {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.start {
+    position: absolute;
+    right: 90px;
+    width: 90px;
+    height: 36px;
+    margin: 12px 12px;
+    background: #166DCA;
+    transition: all 0.5s;
+    font-size: 13px;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 8px;
+    color: #fff;
+    line-height: 36px;
+    text-align: center;
+}
+
+.start:hover {
+    background: #91C0F3;
+}
+
+
+.login {
+    position: absolute;
+    right: 0px;
+    width: 90px;
+    height: 36px;
+    margin: 12px 12px;
+    line-height: 36px;
+    background: url('images/logout.png') no-repeat right center #fff;
+    transition: all 0.5s;
+    font-size: 13px;
+    cursor: pointer;
+    user-select: none;
+    color: #166DCA;
+    text-align: center;
+}
+
+.login:hover {
+    color: #91C0F3;
+}
+
+.foot {
+    position: relative;
+    height: 90px;
+    width: 100%;
+    background: #101828;
+}
+
+.copy {
+    position: absolute;
+    left: 0px;
+    width: 60%;
+    line-height: 32px;
+    padding: 29px 0px 29px 61px;
+    margin: 0px 0px 0px 29px;
+    background: url('images/ico.jpg') left center no-repeat;
+    font-size: 12px;
+    color: #fff;
+}
+
+.Imprint {
+    position: absolute;
+    right: 0px;
+    width: 90px;
+    height: 32px;
+    margin: 29px 0px;
+    text-align: center;
+    line-height: 32px;
+    color: #166DCA;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.Imprint:hover {
+    color: #91C0F3;
+}
+
+.new {
+    margin: 0 auto;
+    width: 75px;
+    height: 40px;
+    background: #166DCA;
+    color: #fff;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 40px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+H1 {
+    margin: 12px;
+    font-size: 48px;
+    letter-spacing: -2%;
+    text-align: center;
+    color: #101828;
+    font-weight: bold
+}
+
+.kv1 {
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background: url('images/KV01s.jpg');
+    object-fit: cover;
+}
+
+.kv1 .phone {
+    position: absolute;
+    z-index: 100;
+    right: 140px;
+    top: 110px;
+}
+.kv1 .qr {
+    position: absolute;
+    z-index: 100;
+    left: 230px;
+    top: 290px;
+}
+.phoneshadow {
+    position: absolute;
+    z-index: 99;
+    right: 145px;
+    top: 120px;
+    width: 290px;
+    height: 600px;
+    background: #00000000;
+    border-radius: 40px;
+    box-shadow: 0px 4px 4px 0px #00000066;
+}
+
+H2 {
+    margin: 110px auto 20px auto;
+    width: 596px;
+    font-size: 36px;
+    letter-spacing: -2%;
+    text-align: center;
+    color: #101828;
+    font-weight: bold
+}
+
+.kv2 {
+    height: 794px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.kv2text {
+    margin: 30px auto;
+    font-size: 16px;
+    font-weight: normal;
+    width: 408px;
+    line-height: 32px;
+}
+
+.kv3 {
+    position: relative;
+    width: 700px;
+    height: 640px;
+    margin: 0 auto;
+}
+
+.kv3 img {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    z-index: 100;
+}
+
+.kvtext {
+    position: absolute;
+    width: 240px;
+    left: 0px;
+    margin-top: 80px;
+    z-index: 101;
+}
+
+.num {
+    height: 80px;
+    width: 80px;
+    border-radius: 80px;
+    background-color: #101828;
+    color: #fff;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    line-height: 80px;
+    margin: 0 auto;
+}
+
+.kvtext1 {
+    text-align: center;
+    line-height: 40px;
+    color: #101828;
+    font-size: 24px;
+    font-weight: bolder;
+    margin: 20px 0px;
+}
+
+.kvtext2 {
+    text-align: center;
+    line-height: 20px;
+    color: #101828;
+    font-size: 15px;
+}
+
+.kv4 {
+    position: relative;
+    width: 1000px;
+    height: 562px;
+    margin: 0 auto;
+}
+
+.kv4 img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.kv4 .kvtext {
+    left: 750px;
+
+}
+
+.kv5 {
+    position: relative;
+    width: 700px;
+    height: 613px;
+    margin: 70px auto;
+}
+
+.kv5 img {
+    position: absolute;
+    right: 0px;
+    transform: rotateZ(10deg);
+}
+
+.phoneshadow2 {
+    position: absolute;
+    transform: rotateZ(10deg);
+    z-index: 99;
+    right: 5px;
+    top: 10px;
+    width: 290px;
+    height: 600px;
+    background: #00000000;
+    border-radius: 40px;
+    box-shadow: 0px 0px 30px 0px #00000066;
+}
+
+.kv5 .kvtext {
+    left: 100px;
+}
+
+.kv6 {
+    position: relative;
+    width: 100%;
+    height: 631px;
+    background: url('images/KV05s.jpg') center center;
+}
+
+.kv6text1 {
+    position: absolute;
+    width: 330px;
+    font-size: 40px;
+    color: #fff;
+    font-weight: bold;
+    top: 130px;
+    left: 90px;
+    line-height: 50px;
+}
+
+.kv6list {
+    position: absolute;
+    right: 100px;
+    top: 84px;
+    width: 216px;
+    height: 360px;
+    background: #EDF5FD;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.kv6list div {
+    color: #0A325D;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border-radius: 10px;
+}
+.highlight{
+    background: #B6D5F7;
+}
+.imprintcontent{
+    margin: 160px;
+    min-height: calc(100vh - 470px);
+}
+.imprintcontent p{
+color: #101828;
+font-size: 16px;
+line-height: 24px;
+margin: 20px 0px;
+}
+.imprintcontent h1{
+    text-align: left;
+}
