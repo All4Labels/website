@@ -136,10 +136,12 @@ H1 {
     position: relative;
     width: 100%;
     height: 380px;
-    background: url(images/KV01s.jpg);
-    background-size: 180%;
+    text-align: center;
+    overflow-x: hidden;
 }
-
+.kv01s{
+    height: 100%;
+}
 .kv1 .phone {
     position: absolute;
     z-index: 100;
