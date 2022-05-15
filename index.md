@@ -6,7 +6,6 @@ layout: index
 <div class="kv1">
     <img class="qr" src="pictures/qr.png">
     <img class="phone" src="pictures/iphones.png">
-    <div class="phoneshadow"></div>
 </div>
 <h2>Nothing can stop your customers from buying.</h2>
 <div class="kv2"><img src="pictures/KV02s.jpg"></div>
@@ -37,7 +36,6 @@ layout: index
         <div class="kvtext2">Your Window Shop is directly integrated with your E-commerce Shop.</div>
     </div>
     <img src="pictures/iphones.png">
-    <div class="phoneshadow2"></div>
 </div>
 <div class="kv6">
     <div class="kv6text1">Keep your shops <br>synced <br>- worldwide</div>

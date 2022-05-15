@@ -144,13 +144,14 @@ H1 {
 }
 
 H2 {
-    margin: 110px auto 20px auto;
+    margin: 110px auto 30px auto;
     width: 596px;
     font-size: 36px;
     letter-spacing: -2%;
     text-align: center;
     color: #101828;
-    font-weight: bold
+    font-weight: bold;
+    line-height: 44px;
 }
 
 .kv2 {
@@ -165,6 +166,7 @@ H2 {
     font-weight: normal;
     width: 408px;
     line-height: 32px;
+    text-align: center;
 }
 
 .kv3 {
