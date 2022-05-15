@@ -196,6 +196,7 @@ width: 100%;
     width: 100%;
     text-align: center;
     margin: 100px 0px 0px 0px;
+    overflow: hidden;
 }
 
 .kv3 img {
@@ -241,6 +242,7 @@ width: 100%;
     width: 100%;
     text-align: center;
     margin: 100px 0px 0px 0px;
+    overflow: hidden;
 }
 
 .kv4 img {
@@ -255,6 +257,7 @@ width: 100%;
     position: relative;
     height: 960px;
     margin: 100px 0px 0px 0px;
+    overflow: hidden;
 }
 .kv5 img {
     position: absolute;
