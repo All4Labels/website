@@ -137,10 +137,15 @@ H1 {
     width: 100%;
     height: 380px;
     text-align: center;
-    overflow-x: hidden;
+}
+.kv01sdiv{
+    width: 100%;
+    height: 380px;
+    overflow: hidden;
+    text-align: center;
 }
 .kv01s{
-    height: 100%;
+    height: 150%;
 }
 .kv1 .phone {
     position: absolute;
