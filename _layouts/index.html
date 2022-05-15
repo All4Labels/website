@@ -39,12 +39,16 @@
                     sessionStorage.setItem("language", "de");
                 }
             }
-            if (document.querySelector(".kv6list a").length > 0) {
-                for (let el of document.querySelector(".kv6list a")) {
-                    console.log(location.href);
-                    console.log(el.getAttribute("href"));
-                    if (location.href.indexOf(el.getAttribute("href"))>0) {
-                        el.setAttribute("class","highlight");
+            var kv6list = document.getElementsByClassName("kv6list")[0];
+            if (kv6list) {
+
+                for (let el of kv6list.children) {
+                    if (el.tagName == "a") {
+                        console.log(location.href);
+                        console.log(el.getAttribute("href"));
+                        if (location.href.indexOf(el.getAttribute("href")) > 0) {
+                            el.setAttribute("class", "highlight");
+                        }
                     }
                 }
             }
