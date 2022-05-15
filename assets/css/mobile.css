@@ -83,7 +83,7 @@ H2 {
 .copy {
     position: absolute;
     left: 24px;
-    width: calc(100% - 48px);
+    width: 240px;
     height: 48px;
     line-height: 24px;
     top:64px;
@@ -292,14 +292,14 @@ width: 100%;
     font-size: 30px;
     color: #fff;
     font-weight: bold;
-    top: 30px;
+    top: 70px;
     left: 30px;
     line-height: 50px;
 }
 
 .kv6list {
     position: absolute;
-    right: 20px;
+    right: -20px;
     top: 234px;
     width: 166px;
     height: 240px;
