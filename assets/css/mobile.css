@@ -299,21 +299,10 @@ width: 100%;
 .kv6 a{
     text-decoration: none;
 }
-.kv6 a:active{
-    text-decoration: none;
-}
-.kv6 a:active div{
+.highlight div{
     text-decoration: none;
     background: #B6D5F7;
 }
-.kv6 a:hover{
-    text-decoration: none;
-}
-.kv6 a:hover div{
-    text-decoration: none;
-    background: #B6D5F7;
-}
-
 .kv6text1 {
     position: absolute;
     width: 350px;

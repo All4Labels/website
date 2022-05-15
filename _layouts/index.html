@@ -23,12 +23,31 @@
         </div>
         {{ content }}
         <div class="foot">
-            <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href=" {% if page.url == "/index_de.html" %}imprint_de.html{% else %}imprint.html{% endif %}"
+            <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a
+                href=" {% if page.url == " /index_de.html" %}imprint_de.html{% else %}imprint.html{% endif %}"
                 class="Imprint">Imprint</a>
         </div>
     </div>
     <script>
-        console.log(navigator.language);
+        (function () {
+            console.log(navigator.language);
+            if (sessionStorage.getItem("language") != undefined) {
+                if (navigator.language == "de") {
+                    if (location.href.indexOf("_de.") < 0) {
+                        location.href = location.href.replace(".html", "_de.html");
+                    }
+                    sessionStorage.setItem("language", "de");
+                }
+            }
+            if (document.querySelector(".kv6list a").length > 0) {
+                for (let el in document.querySelector(".kv6list a")) {
+                    if (location.href.indexOf(el.getAttribute("href"))>0) {
+                        el.setAttribute("class","highlight");
+                    }
+                }
+            }
+        })();
+
     </script>
 </body>
 

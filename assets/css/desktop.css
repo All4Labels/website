@@ -126,11 +126,12 @@ H1 {
 
 }
 
-.kv01sdiv{
+.kv01sdiv {
     width: 100%;
     height: 800px;
 }
-.kv01s{
+
+.kv01s {
     position: absolute;
     z-index: 99;
     width: 100%;
@@ -177,7 +178,7 @@ H2 {
     right: 0px;
     top: 0px;
     z-index: 100;
-    
+
 }
 
 .kvtext {
@@ -284,20 +285,12 @@ H2 {
     border-radius: 10px;
     padding: 30px;
 }
-.kv6 a{
+
+.kv6 a {
     text-decoration: none;
 }
-.kv6 a:active{
-    text-decoration: none;
-}
-.kv6 a:active div{
-    text-decoration: none;
-    background: #B6D5F7;
-}
-.kv6 a:hover{
-    text-decoration: none;
-}
-.kv6 a:hover div{
+
+.highlight div {
     text-decoration: none;
     background: #B6D5F7;
 }
@@ -310,21 +303,24 @@ H2 {
     border-radius: 10px;
 }
 
-.imprintcontent{
+.imprintcontent {
     margin: 160px;
     min-height: calc(100vh - 470px);
 }
-.imprintcontent p{
-color: #101828;
-font-size: 16px;
-line-height: 24px;
-margin: 20px 0px;
+
+.imprintcontent p {
+    color: #101828;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 20px 0px;
 }
-.imprintcontent h1{
+
+.imprintcontent h1 {
     text-align: left;
     margin: 0px;
 }
-.bg1{
+
+.bg1 {
     background-color: #F9FAFB;
     padding: 43px 0px;
 }
