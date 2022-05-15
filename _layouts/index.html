@@ -42,11 +42,9 @@
             var kv6list = document.getElementsByClassName("kv6list")[0];
             console.log(kv6list);
             if (kv6list) {
-                console.log(kv6list.childNodes);
                 for (let el of kv6list.childNodes) {
-                    console.log(el);
-                    if (el.tagName == "a") {
-                        
+                    console.log(el.tagName);
+                    if (el.tagName == "A") {
                         console.log(el.getAttribute("href"));
                         if (location.href.indexOf(el.getAttribute("href")) > 0) {
                             el.setAttribute("class", "highlight");
