@@ -44,8 +44,9 @@
             if (kv6list) {
                 console.log(kv6list.childNodes);
                 for (let el of kv6list.childNodes) {
+                    console.log(el);
                     if (el.tagName == "a") {
-                        console.log(location.href);
+                        
                         console.log(el.getAttribute("href"));
                         if (location.href.indexOf(el.getAttribute("href")) > 0) {
                             el.setAttribute("class", "highlight");
