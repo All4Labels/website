@@ -231,11 +231,11 @@ H2 {
     position: absolute;
     left: 0px;
     top: 0px;
+    width: 600px;
 }
 
 .kv4 .kvtext {
-    left: 750px;
-
+    left: 600px;
 }
 
 .kv5 {
