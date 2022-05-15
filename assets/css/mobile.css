@@ -285,6 +285,7 @@ width: 100%;
     background: url(images/KV05s.jpg) right center;
     background-size: auto 100%;
     height: 577px;
+    overflow: hidden;
 }
 
 .kv6text1 {
@@ -301,7 +302,7 @@ width: 100%;
 .kv6list {
     position: absolute;
     right: -20px;
-    top: 234px;
+    top: 254px;
     width: 166px;
     height: 240px;
     background: #EDF5FD;
