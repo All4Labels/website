@@ -40,7 +40,7 @@
                 }
             }
             if (document.querySelector(".kv6list a").length > 0) {
-                for (let el in document.querySelector(".kv6list a")) {
+                for (let el of document.querySelector(".kv6list a")) {
                     if (location.href.indexOf(el.getAttribute("href"))>0) {
                         el.setAttribute("class","highlight");
                     }
