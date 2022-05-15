@@ -4,7 +4,7 @@ layout: index
 <div class="new">NEW</div>
 <h1>Window Shop is here.</h1>
 <div class="kv1">
-    <img class="qr" src="pictures/qr.png">
+    <img class="kv01s" src="pictures/KV01s.png">
     <img class="phone" src="pictures/iphones.png">
 </div>
 <h2>Nothing can stop your customers from buying.</h2>

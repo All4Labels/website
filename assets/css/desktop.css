@@ -127,6 +127,12 @@ H1 {
     filter: drop-shadow(0px 4px 4px black);
 
 }
+.kv01s{
+    position: absolute;
+    z-index: 99;
+    width: 100%;
+    left: 0px;
+}
 .kv1 .qr {
     position: absolute;
     z-index: 100;
