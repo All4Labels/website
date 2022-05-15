@@ -292,6 +292,23 @@ width: 100%;
     height: 577px;
     overflow: hidden;
 }
+.kv6 a{
+    text-decoration: none;
+}
+.kv6 a:default{
+    text-decoration: none;
+}
+.kv6 a:default div{
+    text-decoration: none;
+    background: #B6D5F7;
+}
+.kv6 a:hover{
+    text-decoration: none;
+}
+.kv6 a:hover div{
+    text-decoration: none;
+    background: #B6D5F7;
+}
 
 .kv6text1 {
     position: absolute;

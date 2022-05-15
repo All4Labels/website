@@ -279,6 +279,23 @@ H2 {
     border-radius: 10px;
     padding: 30px;
 }
+.kv6 a{
+    text-decoration: none;
+}
+.kv6 a:default{
+    text-decoration: none;
+}
+.kv6 a:default div{
+    text-decoration: none;
+    background: #B6D5F7;
+}
+.kv6 a:hover{
+    text-decoration: none;
+}
+.kv6 a:hover div{
+    text-decoration: none;
+    background: #B6D5F7;
+}
 
 .kv6list div {
     color: #0A325D;
@@ -287,9 +304,7 @@ H2 {
     text-align: center;
     border-radius: 10px;
 }
-.highlight{
-    background: #B6D5F7;
-}
+
 .imprintcontent{
     margin: 160px;
     min-height: calc(100vh - 470px);
