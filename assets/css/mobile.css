@@ -196,7 +196,7 @@ width: 100%;
 .kv3 {
     width: 100%;
     text-align: center;
-    margin: 100px 0px 0px 0px;
+    margin: 70px 0px 0px 0px;
     overflow: hidden;
 }
 
@@ -254,7 +254,6 @@ width: 100%;
 
 
 .kv5 {
-    margin: 20px auto;
     position: relative;
     height: 960px;
     margin: 70px 0px 0px 0px;
@@ -263,26 +262,11 @@ width: 100%;
 .kv5 img {
     position: absolute;
     transform: rotateZ(10deg);
-    width: 280px;
-    top: 280px;
-    left: 15%;
+    width: 60%;
+    top: 250px;
+    left: 20%;
     filter: drop-shadow(5px 10px 20px rgba(0, 0, 0, 0.404));
 }
-
-.phoneshadow2 {
-    position: absolute;
-    transform: rotateZ(10deg);
-    z-index: 99;
-    width: 268px;
-    top: 282px;
-    height: 570px;
-    background: #00000000;
-    border-radius: 40px;
-    left: 16%;
-    box-shadow: 0px 0px 30px 0px #00000066;
-}
-
-
 
 .kv6 {
     position: relative;
@@ -359,5 +343,5 @@ margin: 20px 0px;
 }
 .bg1{
     background-color: #F9FAFB;
-    padding: 50px 0px;
+    padding: 10px 0px 0px 0px;
 }
