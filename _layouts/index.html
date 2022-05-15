@@ -40,13 +40,11 @@
                 }
             }
             var kv6list = document.getElementsByClassName("kv6list")[0];
-            console.log(kv6list);
+
             if (kv6list) {
                 for (let el of kv6list.childNodes) {
-                    console.log(el.tagName);
                     if (el.tagName == "A") {
-                        console.log(el.getAttribute("href"));
-                        if (location.href.indexOf(el.getAttribute("href")) > 0) {
+                        if (location.href.toLowerCase().replace("https://all4labels.github.io", "") == el.getAttribute("href").toLowerCase()) {
                             el.setAttribute("class", "highlight");
                         }
                     }
