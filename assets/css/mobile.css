@@ -242,7 +242,7 @@ width: 100%;
 .kv4 {
     width: 100%;
     text-align: center;
-    margin: 100px 0px 0px 0px;
+    margin: 70px 0px 0px 0px;
     overflow: hidden;
 }
 
@@ -257,7 +257,7 @@ width: 100%;
     margin: 20px auto;
     position: relative;
     height: 960px;
-    margin: 100px 0px 0px 0px;
+    margin: 70px 0px 0px 0px;
     overflow: hidden;
 }
 .kv5 img {
@@ -358,4 +358,5 @@ margin: 20px 0px;
 }
 .bg1{
     background-color: #F9FAFB;
+    padding: 50px 0px;
 }
