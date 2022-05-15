@@ -40,9 +40,10 @@
                 }
             }
             var kv6list = document.getElementsByClassName("kv6list")[0];
+            console.log(kv6list);
             if (kv6list) {
-
-                for (let el of kv6list.children) {
+                console.log(kv6list.childNodes);
+                for (let el of kv6list.childNodes) {
                     if (el.tagName == "a") {
                         console.log(location.href);
                         console.log(el.getAttribute("href"));
