@@ -23,7 +23,7 @@
         </div>
         {{ content }}
         <div class="foot">
-            <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href="imprint.html"
+            <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href=" {% if page.url == "/website" %} imprint.html {% else %} imprint_DE.html {% endif %}"
                 class="Imprint">Imprint</a>
         </div>
     </div>
