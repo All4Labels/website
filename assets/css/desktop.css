@@ -124,6 +124,7 @@ H1 {
     z-index: 100;
     right: 140px;
     top: 110px;
+    filter: drop-shadow(0px 4px 4px black);
 }
 .kv1 .qr {
     position: absolute;
@@ -131,17 +132,7 @@ H1 {
     left: 230px;
     top: 290px;
 }
-.phoneshadow {
-    position: absolute;
-    z-index: 99;
-    right: 145px;
-    top: 120px;
-    width: 290px;
-    height: 600px;
-    background: #00000000;
-    border-radius: 40px;
-    box-shadow: 0px 4px 4px 0px #00000066;
-}
+
 
 H2 {
     margin: 110px auto 30px auto;
@@ -249,20 +240,10 @@ H2 {
     position: absolute;
     right: 0px;
     transform: rotateZ(10deg);
+    filter: drop-shadow(5px 10px 20px rgba(0, 0, 0, 0.404));
 }
 
-.phoneshadow2 {
-    position: absolute;
-    transform: rotateZ(10deg);
-    z-index: 99;
-    right: 5px;
-    top: 10px;
-    width: 290px;
-    height: 600px;
-    background: #00000000;
-    border-radius: 40px;
-    box-shadow: 0px 0px 30px 0px #00000066;
-}
+
 
 .kv5 .kvtext {
     left: 100px;
