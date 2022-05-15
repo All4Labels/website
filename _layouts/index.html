@@ -41,6 +41,8 @@
             }
             if (document.querySelector(".kv6list a").length > 0) {
                 for (let el of document.querySelector(".kv6list a")) {
+                    console.log(location.href);
+                    console.log(el.getAttribute("href"));
                     if (location.href.indexOf(el.getAttribute("href"))>0) {
                         el.setAttribute("class","highlight");
                     }
