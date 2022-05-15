@@ -115,8 +115,6 @@ H1 {
     position: relative;
     width: 100%;
     height: 800px;
-    background: url('images/KV01s.jpg');
-    object-fit: cover;
 }
 
 .kv1 .phone {
