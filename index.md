@@ -40,7 +40,7 @@ layout: index
     <div class="phoneshadow2"></div>
 </div>
 <div class="kv6">
-    <div class="kv6text1">Keep your shops synced - worldwide</div>
+    <div class="kv6text1">Keep your shops <br>synced <br>- worldwide</div>
     <div class="kv6list">
         <div>My window shops</div>
         <div class="highlight">London</div>
