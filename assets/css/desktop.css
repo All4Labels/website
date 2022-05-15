@@ -282,10 +282,10 @@ H2 {
 .kv6 a{
     text-decoration: none;
 }
-.kv6 a:default{
+.kv6 a:active{
     text-decoration: none;
 }
-.kv6 a:default div{
+.kv6 a:active div{
     text-decoration: none;
     background: #B6D5F7;
 }
