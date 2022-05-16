@@ -17,7 +17,7 @@ layout: index
     </p>
     <p>
         Managing Director:<br>
-        Nicolas Günther, Dr. Günther Weymans
+        Nicolas Günther, Dr. Günther Weymans, Bram D'hondt
     </p>
     <p>
         Trade Register:<br>
