@@ -1,6 +1,6 @@
 ---
 layout: co
 permalink: /cookie/oDS43a
-content1: Läuft bei dir
-content2: undefined
+content1: Läuft bei dir, zwar rückwärts und bergab, aber läuft.
+content2: Runs with you, backwards and downhill, but runs.
 ---

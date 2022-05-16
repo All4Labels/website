@@ -1,6 +1,6 @@
 ---
 layout: co
 permalink: /cookie/0SDmYK
-content1: Sammle Momente
-content2: undefined
+content1: Sammle Momente, nicht Dinge!
+content2: Collect moments, not things!
 ---

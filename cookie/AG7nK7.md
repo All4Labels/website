@@ -1,6 +1,6 @@
 ---
 layout: co
 permalink: /cookie/AG7nK7
-content1: Sei du selbst dir Veränderung
-content2: undefined
+content1: Sei du selbst dir Veränderung, die du bei anderen sehen willst.
+content2: Be the change you want to see in others.
 ---

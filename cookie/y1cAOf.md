@@ -1,6 +1,6 @@
 ---
 layout: co
 permalink: /cookie/y1cAOf
-content1: Das schönste Geschek
-content2: undefined
+content1: Das schönste Geschek, das du jemanden geben kannst, ist deine Zeit.
+content2: The greatest gift you can give somone is your time.
 ---

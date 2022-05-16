@@ -1,6 +1,6 @@
 ---
 layout: co
 permalink: /cookie/oiiAj1
-content1: Schön
-content2: undefined
+content1: Schön, dass es dich gibt!
+content2: It's great that you're here!
 ---

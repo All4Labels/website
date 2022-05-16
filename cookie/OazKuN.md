@@ -1,6 +1,6 @@
 ---
 layout: co
 permalink: /cookie/OazKuN
-content1: Die Wissenden reden nicht viel
-content2: undefined
+content1: Die Wissenden reden nicht viel, die Redenden wissen nicht viel.
+content2: Those who know do not talk much, those who speak do not know much.
 ---

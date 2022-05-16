@@ -1,6 +1,6 @@
 ---
 layout: co
 permalink: /cookie/4FHQSV
-content1: Kritik ist ein teurer Luxus für den
-content2: undefined
+content1: Kritik ist ein teurer Luxus für den, der nach oben strebt.
+content2: Criticsm is an expensive luxury for those aiming for the top.
 ---

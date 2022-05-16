@@ -1,6 +1,6 @@
 ---
 layout: co
 permalink: /cookie/sRvas0
-content1: Wer viele Schätze anhäuft
-content2: undefined
+content1: Wer viele Schätze anhäuft, hat viel zu verlieren.
+content2: He who accumulates many treasures has much to lose.
 ---
