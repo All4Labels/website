@@ -1,3 +1,4 @@
+baseurl:/website/
 collections:
   cookie:
     output: true
