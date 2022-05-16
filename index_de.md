@@ -54,7 +54,7 @@ layout: index
         <div>My window shops</div>
         <a href="/website"><div>London</div></a>
         <div>Paris</div>
-        <a href="/website/index_de.html"><div>Berlin</div></a>
+        <a href="/website/index_de.html" class="highlight"><div>Berlin</div></a>
         <div>New York</div>
         <div>Shanghai</div>
     </div>

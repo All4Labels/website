@@ -52,7 +52,7 @@ layout: index
     <div class="kv6text1">Keep your shops <br>synced <br>- worldwide</div>
     <div class="kv6list">
         <div>My window shops</div>
-        <a href="/website"><div>London</div></a>
+        <a href="/website" class="highlight"><div>London</div></a>
         <div>Paris</div>
         <a href="/website/index_de.html"><div>Berlin</div></a>
         <div>New York</div>
