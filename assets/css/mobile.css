@@ -440,12 +440,16 @@ H2 {
     width: 351px;
     left: calc(50% - 351px/2);
     top: 5.2%;
+    height: 156px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .cookiekv_txt2 {
     z-index: 100;
     position: absolute;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     color: #101828;
     line-height: 38px;
