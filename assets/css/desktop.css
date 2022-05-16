@@ -345,3 +345,14 @@ H2 {
     right: 0px;
     top:0px;
 }
+.mobile{
+    display: none;
+}
+.cookiedesk {
+    margin: 160px;
+    min-height: calc(100vh - 470px);
+}
+.cookiedesk h1 {
+    text-align: center;
+    margin: 0px;
+}
