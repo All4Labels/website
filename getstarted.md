@@ -16,5 +16,5 @@ layout: index
 <!-- Calendly inline widget end -->
 </div>
 <div class="foot">
-    <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href="imprint.html" class="Imprint">Imprint</a>
+    <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href="/imprint" class="Imprint">Imprint</a>
 </div>

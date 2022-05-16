@@ -2,10 +2,10 @@
 layout: index
 ---
 <div class="head">
-    <a href="/">
+    <a href="/de">
         <div class="logo"></div>
     </a>
-    <a href="getstarted"><div class="start">Get Started</div></a>
+    <a href="/getstarted"><div class="start">Get Started</div></a>
     <div class="login">Login</div>
 </div>
 <div class="imprintcontent">
@@ -37,5 +37,5 @@ layout: index
      </p>
 </div>
 <div class="foot">
-    <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href="imprint_de.html" class="Imprint">Imprint</a>
+    <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href="/de/imprint" class="Imprint">Imprint</a>
 </div>
