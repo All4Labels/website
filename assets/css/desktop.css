@@ -358,12 +358,11 @@ H2 {
 }
 .startmain {
     width: 100%;
-    height: calc(100vh - 150px);
 }
 .calendly-inline-widget{
-    height: calc(100vh - 356px);
+    height: 750px;
 }
 .startmain h1{
-    margin: 103px auto;
+    margin: 103px auto 0px auto;
     width: 781px;
 }
