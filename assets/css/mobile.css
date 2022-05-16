@@ -312,9 +312,10 @@ H2 {
 }
 .kv6 img{
     position: absolute;
-    left:-10px;
-    top:216px;
+    left: -20px;
+    top: 256px;
     z-index: 1;
+    width: 75%;
 }
 
 .kv6 a {
