@@ -13,14 +13,15 @@
 </head>
 
 <body>
-    <div class="mobile">
-        <div class="main">
-            <div class="head">
-                <a href="/website">
-                    <div class="logo"></div>
-                </a>
-                <div class="button absright">Zum QR Marketing</div>
-            </div>
+
+    <div class="main">
+        <div class="head">
+            <a href="/website">
+                <div class="logo"></div>
+            </a>
+            <div class="button absright">Zum QR Marketing</div>
+        </div>
+        <div class="mobile">
             <div class="cookiekv">
                 <img class="cookiekv_img" src="/website/pictures/qrbg.png">
                 <div class="cookiekv_txt1">{{ page.content1 }}</div>
@@ -59,16 +60,16 @@
                 <img src="/website/pictures/qrpic1.png">
                 <div class="button cookiekv4_btn">Zum Shop</div>
             </div>
-            {{ content }}
-            <div class="foot">
-                <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a
-                    href="../imprint.html" class="Imprint">Imprint</a>
+        </div>
+        <div class="desk">
+            <div class="cookiedesk">
+                <h1>For Mobile Phone Only</h1>
             </div>
         </div>
-    </div>
-    <div class="desk">
-        <div class="cookiedesk">
-            <h1>For Mobile Phone Only</h1>
+        {{ content }}
+        <div class="foot">
+            <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href="../imprint.html"
+                class="Imprint">Imprint</a>
         </div>
     </div>
     <script>
