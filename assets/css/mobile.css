@@ -39,7 +39,7 @@ H2 {
     width: 90px;
     height: 36px;
     margin: 12px 12px;
-    background: #166DCA;
+    background: #5897fb;
     transition: all 0.5s;
     font-size: 13px;
     cursor: pointer;
@@ -51,7 +51,8 @@ H2 {
 }
 
 .start:hover {
-    background: #439eff;
+    background: #1259a5;
+    outline:4px solid #fce7f6;
 }
 
 
@@ -398,7 +399,7 @@ H2 {
     font-size: 12px;
     color: #fff;
     line-height: 18px;
-    background: #166DCA;
+    background: #5897fb;
     text-align: center;
     text-decoration: none;
     transition: all 0.5s;
@@ -408,7 +409,8 @@ H2 {
 }
 
 .button:hover {
-    background: #B6D5F7;
+    background: #1259a5;
+    outline:4px solid #fce7f6;
 }
 
 .absright {

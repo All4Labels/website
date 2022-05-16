@@ -17,7 +17,7 @@ body {
     width: 90px;
     height: 36px;
     margin: 12px 12px;
-    background: #166DCA;
+    background: #5897fb;
     transition: all 0.5s;
     font-size: 13px;
     cursor: pointer;
@@ -29,7 +29,8 @@ body {
 }
 
 .start:hover {
-    background: #91C0F3;
+    background: #1259a5;
+    outline:4px solid #fce7f6;
 }
 
 
@@ -329,7 +330,7 @@ H2 {
     font-size: 12px;
     color:#fff;
     line-height: 18px;
-    background: #166DCA;
+    background: #5897fb;
     text-align: center;
     text-decoration: none;
     transition: all 0.5s;
@@ -337,8 +338,9 @@ H2 {
     user-select: none;
     border-radius: 8px;
 }
-.button:hover{
-    background: #B6D5F7;
+.button:hover {
+    background: #1259a5;
+    outline:4px solid #fce7f6;
 }
 .absright{
     position: absolute;
