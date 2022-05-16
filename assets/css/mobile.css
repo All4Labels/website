@@ -52,9 +52,11 @@ H2 {
 
 .start:hover {
     background: #1259a5;
+    
+}
+.start:focus{
     outline:4px solid #fce7f6;
 }
-
 
 .login {
     position: absolute;
@@ -410,9 +412,10 @@ H2 {
 
 .button:hover {
     background: #1259a5;
+}
+.button:focus{
     outline:4px solid #fce7f6;
 }
-
 .absright {
     position: absolute;
     right: 0px;
