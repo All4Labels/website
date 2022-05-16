@@ -543,3 +543,7 @@ H2 {
 .desk{
     display: none;
 }
+.startmain {
+    margin: 20px;
+    min-height: calc(100vh - 277px);
+}
