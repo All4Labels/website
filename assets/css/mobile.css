@@ -544,5 +544,12 @@ H2 {
     display: none;
 }
 .startmain {
-    height: calc(100vh - 237px);
+    min-height: calc(100vh - 237px);
+}
+.calendly-inline-widget{
+    height: calc(100vh - 331px);
+}
+.startmain h1{
+    margin: 47px auto;
+    width: 334px;
 }

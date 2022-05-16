@@ -1,6 +1,13 @@
 ---
 layout: index
 ---
+<div class="head">
+    <a href="/website">
+        <div class="logo"></div>
+    </a>
+    <a href="/website/getstarted"><div class="start">Get Started</div></a>
+    <div class="login">Login</div>
+</div>
 <div class="new">NEW</div>
 <h1>Window Shop is here.</h1>
 <div class="kv1">
@@ -51,4 +58,7 @@ layout: index
         <div>New York</div>
         <div>Shanghai</div>
     </div>
+</div>
+<div class="foot">
+    <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href="imprint.html" class="Imprint">Imprint</a>
 </div>

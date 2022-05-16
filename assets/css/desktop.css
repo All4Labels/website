@@ -360,3 +360,10 @@ H2 {
     width: 100%;
     height: calc(100vh - 150px);
 }
+.calendly-inline-widget{
+    height: calc(100vh - 356px);
+}
+.startmain h1{
+    margin: 103px auto;
+    width: 781px;
+}

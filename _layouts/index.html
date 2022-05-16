@@ -11,8 +11,8 @@
     <link rel="icon" sizes="192x192" href="/website/pictures/phoneicon.png">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1.0,user-scalable=0">
     <link href="/website/assets/css/public.css?v=0.0.1" rel="stylesheet" />
-    <link href="/website/assets/css/desktop.css?v=0.0.2" rel="stylesheet" media="screen and (min-width:1000px)" />
-    <link href="/website/assets/css/mobile.css?v=0.0.2" rel="stylesheet" media="screen and (max-width:1000px)" />
+    <link href="/website/assets/css/desktop.css?v=0.0.3" rel="stylesheet" media="screen and (min-width:1000px)" />
+    <link href="/website/assets/css/mobile.css?v=0.0.3" rel="stylesheet" media="screen and (max-width:1000px)" />
     <link rel="shortcut icon" href="/website/favicon.ico" type=”image/x-icon” />
     <meta name="robots" content="noindex,nofollow,noarchive">
     <title>Label Cloud</title>
@@ -20,45 +20,9 @@
 
 <body>
     <div class="main">
-        <div class="head">
-            <a href="/website">
-                <div class="logo"></div>
-            </a>
-            <div class="start">Get Started</div>
-            <div class="login">Login</div>
-        </div>
         {{ content }}
-        <div class="foot">
-            <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a
-                href=" {% if page.url == " /index_de.html" %}imprint_de.html{% else %}imprint.html{% endif %}"
-                class="Imprint">Imprint</a>
-        </div>
     </div>
-    <script>
-        (function () {
-            console.log(navigator.language);
-            if (sessionStorage.getItem("language") != undefined) {
-                if (navigator.language == "de") {
-                    if (location.href.indexOf("_de.") < 0) {
-                        location.href = location.href.replace(".html", "_de.html");
-                    }
-                    sessionStorage.setItem("language", "de");
-                }
-            }
-            var kv6list = document.getElementsByClassName("kv6list")[0];
 
-            if (kv6list) {
-                for (let el of kv6list.childNodes) {
-                    if (el.tagName == "A") {
-                        if (location.href.toLowerCase().replace("https://all4labels.github.io", "").split("/").join("") == el.getAttribute("href").toLowerCase().split("/").join("")) {
-                            el.setAttribute("class", "highlight");
-                        }
-                    }
-                }
-            }
-        })();
-
-    </script>
 </body>
 
 </html>
