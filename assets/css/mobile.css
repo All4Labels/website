@@ -544,5 +544,5 @@ H2 {
     display: none;
 }
 .startmain {
-    min-height: calc(100vh - 237px);
+    height: calc(100vh - 237px);
 }

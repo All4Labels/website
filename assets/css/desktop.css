@@ -358,5 +358,5 @@ H2 {
 }
 .startmain {
     width: 100%;
-    min-height: calc(100vh - 150px);
+    height: calc(100vh - 150px);
 }
