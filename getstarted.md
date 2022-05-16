@@ -2,10 +2,10 @@
 layout: index
 ---
 <div class="head">
-    <a href="/website">
+    <a href="/">
         <div class="logo"></div>
     </a>
-    <a href="/website/getstarted"><div class="start">Get Started</div></a>
+    <a href="/getstarted"><div class="start">Get Started</div></a>
     <div class="login">Login</div>
 </div>
 <div class="startmain">

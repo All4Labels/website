@@ -2,10 +2,10 @@
 layout: index
 ---
 <div class="head">
-    <a href="/website">
+    <a href="/">
         <div class="logo"></div>
     </a>
-    <a href="/website/getstarted"><div class="start">Get Started</div></a>
+    <a href="/getstarted"><div class="start">Get Started</div></a>
     <div class="login">Login</div>
 </div>
 <div class="new">NEW</div>
@@ -55,7 +55,7 @@ layout: index
         <div>My window shops</div>
         <a href="/website"><div>London</div></a>
         <div>Paris</div>
-        <a href="/website/index_de.html" class="highlight"><div>Berlin</div></a>
+        <a href="/index_de.html" class="highlight"><div>Berlin</div></a>
         <div>New York</div>
         <div>Shanghai</div>
     </div>
