@@ -1,0 +1,6 @@
+---
+layout: co
+permalink: /cookie/iasjgo
+content1: Glück lässt sich nicht erzwingen
+content2: undefined
+---

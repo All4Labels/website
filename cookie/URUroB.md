@@ -1,0 +1,6 @@
+---
+layout: co
+permalink: /cookie/URUroB
+content1: OMG! Du bist auf unserer Landingpage!
+content2: Du könntest jetzt auf Stellenanzeigen eines Unternehmens
+---
