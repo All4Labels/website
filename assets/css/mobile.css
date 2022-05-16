@@ -39,7 +39,7 @@ H2 {
     width: 90px;
     height: 36px;
     margin: 12px 12px;
-    background: #5897fb;
+    background: #166dca;
     transition: all 0.5s;
     font-size: 13px;
     cursor: pointer;
@@ -306,10 +306,15 @@ H2 {
 .kv6 {
     position: relative;
     width: 100%;
-    background: url(images/KV05s.jpg) right center;
-    background-size: auto 100%;
+    background: linear-gradient(#0b325d, #125aa6);
     height: 577px;
     overflow: hidden;
+}
+.kv6 img{
+    position: absolute;
+    left:-10px;
+    top:216px;
+    z-index: 1;
 }
 
 .kv6 a {
@@ -330,6 +335,7 @@ H2 {
     top: 70px;
     left: 30px;
     line-height: 50px;
+    z-index: 100;
 }
 
 .kv6list {
@@ -341,6 +347,7 @@ H2 {
     background: #EDF5FD;
     border-radius: 10px;
     padding: 10px;
+    z-index: 100;
 }
 
 .kv6list div {
@@ -401,7 +408,7 @@ H2 {
     font-size: 12px;
     color: #fff;
     line-height: 18px;
-    background: #5897fb;
+    background: #166dca;
     text-align: center;
     text-decoration: none;
     transition: all 0.5s;

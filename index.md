@@ -49,6 +49,7 @@ layout: index
     </div>
 </div>
 <div class="kv6">
+    <img src="pictures/earth.png">
     <div class="kv6text1">Keep your shops <br>synced <br>- worldwide</div>
     <div class="kv6list">
         <div>My window shops</div>
