@@ -17,7 +17,7 @@ layout: index
     </p>
     <p>
         Managing Director:<br>
-        Nicolas Günther, Dr. Günther Weymans, Bram D'hondt
+        Nicolas Günther, Bram D'hondt
     </p>
     <p>
         Trade Register:<br>
@@ -28,7 +28,7 @@ layout: index
         DE 812 378 605
     </p>
     <p>
-        Contact:<br>
+        Kontakt:<br>
         Tel.: +49 (0)4104 - 693 250<br>
         Fax: +49 (0)4104 / 693 - 2340
     </p>
