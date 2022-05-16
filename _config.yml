@@ -1,3 +1,4 @@
 baseurl:/
 collections:
-  - cookie
+  cookie:
+    output: true
