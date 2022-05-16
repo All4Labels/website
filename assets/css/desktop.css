@@ -324,3 +324,24 @@ H2 {
     background-color: #F9FAFB;
     padding: 43px 0px;
 }
+.button{
+    padding: 9px;
+    font-size: 12px;
+    color:#fff;
+    line-height: 18px;
+    background: #166DCA;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.5s;
+    margin: 12px;
+    user-select: none;
+    border-radius: 8px;
+}
+.button:hover{
+    background: #B6D5F7;
+}
+.absright{
+    position: absolute;
+    right: 0px;
+    top:0px;
+}

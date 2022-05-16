@@ -32,6 +32,7 @@ H2 {
     background: url('images/logo.png');
     margin: 14px 15px;
 }
+
 .start {
     position: absolute;
     right: 30px;
@@ -70,7 +71,8 @@ H2 {
     color: #ffffff00;
     text-align: center;
 }
-.login:hover{
+
+.login:hover {
     color: #ffffff00;
 }
 
@@ -87,15 +89,16 @@ H2 {
     width: 240px;
     height: 48px;
     line-height: 24px;
-    top:64px;
+    top: 64px;
     padding: 41px 24px 24px 0px;
     background: url('images/ico.jpg') left top no-repeat;
     font-size: 12px;
     color: #fff;
 }
+
 .Imprint {
     position: absolute;
-    top:0px;
+    top: 0px;
     right: 0px;
     width: 90px;
     height: 24px;
@@ -106,6 +109,7 @@ H2 {
     text-decoration: none;
     font-size: 14px;
 }
+
 .Imprint:hover {
     color: #91C0F3;
 }
@@ -138,19 +142,22 @@ H1 {
     height: 380px;
     text-align: center;
 }
+
 @media screen and (max-width: 790px) {
-    .kv01sdiv{
+    .kv01sdiv {
         width: 100%;
         height: 380px;
         overflow: hidden;
         position: relative;
     }
-    .kv01s{
+
+    .kv01s {
         height: 120%;
         position: absolute;
         left: -30px;
         top: 0px;
     }
+
     .kv1 .phone {
         position: absolute;
         z-index: 100;
@@ -160,27 +167,29 @@ H1 {
         filter: drop-shadow(0px 4px 4px black);
     }
 }
+
 @media screen and (min-width: 790px) {
     .kv1 {
         position: relative;
         width: 100%;
         height: 800px;
     }
-    
+
     .kv1 .phone {
         position: absolute;
         z-index: 100;
         right: 140px;
         top: 110px;
         filter: drop-shadow(0px 4px 4px black);
-    
+
     }
-    
-    .kv01sdiv{
+
+    .kv01sdiv {
         width: 100%;
         height: 800px;
     }
-    .kv01s{
+
+    .kv01s {
         position: absolute;
         z-index: 99;
         width: 100%;
@@ -202,9 +211,11 @@ H2 {
 .kv2 {
     width: 100%;
 }
-.kv2 img{
-width: 100%;
+
+.kv2 img {
+    width: 100%;
 }
+
 .kv2text {
     margin: 30px auto;
     font-size: 16px;
@@ -279,6 +290,7 @@ width: 100%;
     margin: 70px 0px 0px 0px;
     overflow: hidden;
 }
+
 .kv5 img {
     position: absolute;
     transform: rotateZ(10deg);
@@ -296,13 +308,16 @@ width: 100%;
     height: 577px;
     overflow: hidden;
 }
-.kv6 a{
+
+.kv6 a {
     text-decoration: none;
 }
-.highlight div{
+
+.highlight div {
     text-decoration: none;
     background: #B6D5F7;
 }
+
 .kv6text1 {
     position: absolute;
     width: 350px;
@@ -332,39 +347,192 @@ width: 100%;
     text-align: center;
     border-radius: 10px;
 }
-.kv6 a{
+
+.kv6 a {
     text-decoration: none;
 }
-.kv6 a:active{
+
+.kv6 a:active {
     text-decoration: none;
 }
-.kv6 a:active div{
-    text-decoration: none;
-    background: #B6D5F7;
-}
-.kv6 a:hover{
-    text-decoration: none;
-}
-.kv6 a:hover div{
+
+.kv6 a:active div {
     text-decoration: none;
     background: #B6D5F7;
 }
-.imprintcontent{
+
+.kv6 a:hover {
+    text-decoration: none;
+}
+
+.kv6 a:hover div {
+    text-decoration: none;
+    background: #B6D5F7;
+}
+
+.imprintcontent {
     margin: 20px;
     min-height: calc(100vh - 277px);
 }
-.imprintcontent p{
-color: #101828;
-font-size: 16px;
-line-height: 24px;
-margin: 20px 0px;
+
+.imprintcontent p {
+    color: #101828;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 20px 0px;
 }
-.imprintcontent h1{
+
+.imprintcontent h1 {
     text-align: left;
     font-size: 24px;
     margin: 0px;
 }
-.bg1{
+
+.bg1 {
     background-color: #F9FAFB;
     padding: 10px 0px 0px 0px;
+}
+
+.button {
+    padding: 9px;
+    font-size: 12px;
+    color: #fff;
+    line-height: 18px;
+    background: #166DCA;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.5s;
+    margin: 12px;
+    user-select: none;
+    border-radius: 8px;
+}
+
+.button:hover {
+    background: #B6D5F7;
+}
+
+.absright {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.cookiekv {
+    position: relative;
+    width: 100%;
+}
+
+.cookiekv_img {
+
+    width: 100%;
+    height: auto;
+
+}
+
+.cookiekv_txt1 {
+    z-index: 100;
+    position: absolute;
+    font-size: 36px;
+    font-weight: bold;
+    color: #101828;
+    line-height: 48px;
+    text-align: center;
+    width: 351px;
+    left: calc(50% - 351px/2);
+    top: 5.2%;
+}
+
+.cookiekv_txt2 {
+    z-index: 100;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    color: #101828;
+    line-height: 38px;
+    text-align: center;
+    width: 320px;
+    left: calc(50% - 320px/2);
+    top: 62.28%;
+}
+
+.cookiekv_txt3 {
+    z-index: 100;
+    position: absolute;
+    font-size: 16px;
+    color: #101828;
+    line-height: 24px;
+    text-align: center;
+    width: 293px;
+    left: calc(50% - 146.5px);
+    bottom: 3%;
+}
+.cookiekv2{
+    background: #F9FAFB;
+    width: 100%;
+    height: 360px;
+    position: relative;
+}
+.cookiekv2_txt1{
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+    line-height: 28px;
+    width: 270px;
+    text-align: center;
+    left: calc(50% - 270px/2);
+    top: 48px;
+}
+.cookiekv2_btn1{
+    position: absolute;
+    width: 137px;
+    left: calc(50% - 155px/2);
+    top: 270px;
+    margin: 0px;
+}
+.cookiekv3_text1{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #101828;
+}
+.cookiekv3{
+    padding: 40px;
+}
+.cookiekv3 li{
+    font-size: 16px;
+    font-weight:normal;
+    line-height: 24px;
+    color: #101828;
+}
+.cookiekv3 ul{
+    padding: 0px 20px;
+}
+
+.cookiekv4{
+    background: #F9FAFB;
+    width: 100%;
+    height: 360px;
+    position: relative;
+}
+.cookiekv4_txt1{
+    position: absolute;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+    line-height: 30px;
+    width: 321px;
+    text-align: center;
+    left: calc(50% - 321px/2);
+    top: 48px;
+}
+.cookiekv4 img{
+    position: absolute;
+    top:173px;
+    left:65px;
+}
+.cookiekv4_btn{
+    position: absolute;
+    left: 50%;
+    top:239px;
 }
