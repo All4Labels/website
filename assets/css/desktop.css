@@ -357,6 +357,6 @@ H2 {
     margin: 0px;
 }
 .startmain {
-    margin: 160px;
-    min-height: calc(100vh - 470px);
+    width: 100%;
+    min-height: calc(100vh - 150px);
 }

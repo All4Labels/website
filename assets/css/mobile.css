@@ -544,6 +544,5 @@ H2 {
     display: none;
 }
 .startmain {
-    margin: 20px;
-    min-height: calc(100vh - 277px);
+    min-height: calc(100vh - 237px);
 }
