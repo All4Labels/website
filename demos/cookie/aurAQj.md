@@ -1,5 +1,5 @@
 ---
-layout: co2
+layout: co
 permalink: /demos/cookie/aurAQj
 content1: Sei dein bester Freund.
 content2: Be your best friend.

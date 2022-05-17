@@ -1,5 +1,5 @@
 ---
-layout: co2
+layout: co
 permalink: /demos/cookie/aCqJKS
 content1: Im Zweifel lautet die Antwort: JA.
 content2: When in doubt, the answer is: YES.

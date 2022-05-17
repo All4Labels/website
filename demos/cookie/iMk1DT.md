@@ -1,5 +1,5 @@
 ---
-layout: co2
+layout: co
 permalink: /demos/cookie/iMk1DT
 content1: Leider hat es diesmal nicht geklappt.
 content2: Probiere den nächsten Keks.
