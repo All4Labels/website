@@ -5,7 +5,7 @@ layout: index
     <a href="/">
         <div class="logo"></div>
     </a>
-    <a href="/getstarted"><div class="start">Get Started</div></a>
+    <a href="/getstarted"><div class="Get_started">Get Started</div></a>
     <div class="login">Login</div>
 </div>
 <div class="new">NEW</div>

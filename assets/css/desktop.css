@@ -11,7 +11,7 @@ body {
     margin: 0 auto;
 }
 
-.start {
+.Get_started {
     position: absolute;
     right: 0px;
     width: 90px;
@@ -28,11 +28,11 @@ body {
     text-align: center;
 }
 
-.start:hover {
+.Get_started:hover {
     background: #1259a5;
 }
 
-.start:focus {
+.Get_started:focus {
     outline: 4px solid #fce7f6;
 }
 

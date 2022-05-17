@@ -33,7 +33,7 @@ H2 {
     margin: 14px 15px;
 }
 
-.start {
+.Get_started {
     position: absolute;
     right: 0px;
     width: 90px;
@@ -50,12 +50,12 @@ H2 {
     text-align: center;
 }
 
-.start:hover {
+.Get_started:hover {
     background: #1259a5;
 
 }
 
-.start:focus {
+.Get_started:focus {
     outline: 4px solid #fce7f6;
 }
 
@@ -405,7 +405,10 @@ H2 {
     padding: 10px 0px 0px 0px;
 }
 
-.button {
+.button,
+.Kekse_kaufen,
+.Homepage,
+.Kontakt {
     padding: 9px;
     font-size: 12px;
     color: #fff;
@@ -419,15 +422,21 @@ H2 {
     border-radius: 8px;
 }
 
-.button:hover {
+.button:hover,
+.Kekse_kaufen:hover,
+.Homepage:hover,
+.Kontakt:hover {
     background: #1259a5;
 }
 
-.button:focus {
+.button:focus,
+.Kekse_kaufen:focus,
+.Homepage:focus,
+.Kontakt:focus {
     outline: 4px solid #fce7f6;
 }
 
-.absright {
+.Homepage {
     position: absolute;
     right: 0px;
     top: 0px;
@@ -551,7 +560,7 @@ H2 {
     top: 48px;
 }
 
-.cookiekv2_btn1 {
+.Kontakt {
     position: absolute;
     width: 137px;
     left: calc(50% - 155px/2);
@@ -606,7 +615,7 @@ H2 {
     left: 65px;
 }
 
-.cookiekv4_btn {
+.Kekse_kaufen {
     position: absolute;
     left: 50%;
     top: 239px;
