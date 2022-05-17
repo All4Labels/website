@@ -434,7 +434,12 @@ H2 {
     position: relative;
     width: 100%;
 }
-
+.cookiekv-2{
+    position: relative;
+    width: 100%;
+    height: 640px;
+    overflow: hidden;
+}
 .cookiekv_img {
 
     width: 100%;
@@ -496,7 +501,7 @@ H2 {
     text-align: center;
     width: 293px;
     left: calc(50% - 146.5px);
-    top: 62.28%;
+    top: 450px;
 }
 .cookiekv2{
     background: #F9FAFB;
