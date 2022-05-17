@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/J8GEZT
+permalink: /demos/cookie/J8GEZT
 content1: Glück lässt sich nicht erzwingen, aber es mag hartnäckige Menschen.
 content2: Happiness can't be forced, but it likes stubborn people.
 ---

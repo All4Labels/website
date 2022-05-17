@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/zMaTdj
+permalink: /demos/cookie/zMaTdj
 content1: Leider hat es diesmal nicht geklappt.
 content2: Probiere den nächsten Keks.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/xrL6Mj
+permalink: /demos/cookie/xrL6Mj
 content1: Jeder deiner Falten hast du hart erlacht.
 content2: You laughed hard at each of your wrinkles.
 ---

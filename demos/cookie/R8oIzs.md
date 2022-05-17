@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/R8oIzs
+permalink: /demos/cookie/R8oIzs
 content1: Das Glück läuft niemanden nach, man muss es aufsuchen.
 content2: Happiness doesn't follow anyone, you have to seek it out.
 ---

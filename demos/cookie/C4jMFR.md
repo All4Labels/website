@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/C4jMFR
+permalink: /demos/cookie/C4jMFR
 content1: Ein Keks kann dir keine Entscheidungen abnehmen. Frag mal beim Wein nach.
 content2: A cookie can't make decisions for you. Ask the wine.
 ---

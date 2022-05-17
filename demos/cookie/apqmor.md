@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/apqmor
+permalink: /demos/cookie/apqmor
 content1: Ganz schön generischer Call to Action! Oder?
 content2: …und trotzdem gescannt und hier gelandet! ,-)
 ---

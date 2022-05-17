@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/SeT4uw
+permalink: /demos/cookie/SeT4uw
 content1: Einfach mal machen!
 content2: Just do it!
 ---

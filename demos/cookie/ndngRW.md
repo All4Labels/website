@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/ndngRW
+permalink: /demos/cookie/ndngRW
 content1: Geh schlafen.
 content2: Go to sleep.
 ---

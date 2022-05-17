@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/cFiW6f
+permalink: /demos/cookie/cFiW6f
 content1: Das hat aber gedauert! Tue Gutes und rede rüber!
 content2: Hier könnte Deine Live Spendenkampagne zum Thema Not-Katastrophenhilfe, Tierschutz, Kultur-Denkmalpflege etc. platziert sein
 ---

@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/d1PH1u
+permalink: /demos/cookie/d1PH1u
 content1: Danke, du hast mich aus dem Keks befreit.
 content2: Thank you for freeing me from the cookie.
 ---

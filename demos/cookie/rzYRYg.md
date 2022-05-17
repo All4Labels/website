@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/rzYRYg
+permalink: /demos/cookie/rzYRYg
 content1: Im Zweifel lautet die Antwort: JA.
 content2: When in doubt, the answer is: YES.
 ---

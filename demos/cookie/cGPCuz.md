@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/cGPCuz
+permalink: /demos/cookie/cGPCuz
 content1: Sei dein bester Freund.
 content2: Be your best friend.
 ---

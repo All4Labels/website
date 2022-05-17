@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/oK0myg
+permalink: /demos/cookie/oK0myg
 content1: Jetzt ist eine gute Zeit, etwas Neues zu beginnen.
 content2: Now is a good time to start something new.
 ---

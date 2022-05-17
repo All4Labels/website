@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/cecuvq
+permalink: /demos/cookie/cecuvq
 content1: Sei dein bester Freund.
 content2: Be your best friend.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/aUIsNe
+permalink: /demos/cookie/aUIsNe
 content1: 404 - fortune not found.
 content2: 404 - fortune not found.
 ---

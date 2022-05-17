@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/Ir1NSm
+permalink: /demos/cookie/Ir1NSm
 content1: Das Glück tritt gern in ein Haus, wo gute Laune herrscht.
 content2: Luck likes to enter a house where there is a good mood.
 ---

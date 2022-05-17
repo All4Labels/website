@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/MmPP2m
+permalink: /demos/cookie/MmPP2m
 content1: Passion led you here?
 content2: Du könntest jetzt bspw. auf der Landingpage/SocialMedia Kanal eines Pauschaleiseanbieters, Reisebüros, Airline, Online Travel Marktplatz etc. gelandet sein!
 ---

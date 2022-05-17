@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/95YyWB
+permalink: /demos/cookie/95YyWB
 content1: Das Glück welches du suchst, steckt in einem anderen Keks.
 content2: The happiness you are looking for is in another cookie.
 ---

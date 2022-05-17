@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/k19iTX
+permalink: /demos/cookie/k19iTX
 content1: Herzlichen Glückwunsch! Du hast es geschafft!
 content2: Du könntest jetzt bspw. auf der Landingpage/SocialMedia Kanal eines Automobilherstellers, Autohändlers, Mietwagenanbieters, Online Marktplatz etc. gelandet sein!
 ---

@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/Iz96Xj
+permalink: /demos/cookie/Iz96Xj
 content1: Leider hat es diesmal nicht geklappt.
 content2: Probiere den nächsten Keks.
 ---

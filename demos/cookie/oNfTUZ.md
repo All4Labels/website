@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/oNfTUZ
+permalink: /demos/cookie/oNfTUZ
 content1: Geh schlafen.
 content2: Go to sleep.
 ---

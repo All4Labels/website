@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/vti47u
+permalink: /demos/cookie/vti47u
 content1: All you need is love. Aber ein paar Kekse schaden auch nicht.
 content2: All you need is love. But a few biscuits won't hurt either.
 ---

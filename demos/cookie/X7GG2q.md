@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/X7GG2q
+permalink: /demos/cookie/X7GG2q
 content1: Do not look back, you are online!
 content2: Du könntest jetzt bspw. auf der Landingpage/SocialMedia Kanal eines Pauschaleiseanbieters, Reisebüros, Airline, Online Travel Marktplatz etc. gelandet sein!
 ---

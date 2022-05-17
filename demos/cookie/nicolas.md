@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/nicolas
+permalink: /demos/cookie/nicolas
 content1: Nicolas Günther
 inlogourl: https://www.linkedin.com/in/nicolas-guenther/
 ---

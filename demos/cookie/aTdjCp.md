@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/aTdjCp
+permalink: /demos/cookie/aTdjCp
 content1: Was hast du dir hier drin erwartet?
 content2: What were you expecting in here?
 ---

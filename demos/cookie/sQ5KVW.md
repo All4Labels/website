@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/sQ5KVW
+permalink: /demos/cookie/sQ5KVW
 content1: Nimm dir noch 'nen Keks, ich habe Pause.
 content2: Have another cookie, I'm on break.
 ---

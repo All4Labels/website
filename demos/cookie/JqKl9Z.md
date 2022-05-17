@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/JqKl9Z
+permalink: /demos/cookie/JqKl9Z
 content1: A Glückskeks a day keeps the Pech away!
 content2: A fortune cookie a day keeps the bad luck away!
 ---

@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/XvPaSH
+permalink: /demos/cookie/XvPaSH
 content1: Leider hat es diesmal nicht geklappt.
 content2: Probiere den nächsten Keks.
 ---

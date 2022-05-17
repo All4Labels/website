@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/7vn1yI
+permalink: /demos/cookie/7vn1yI
 content1: I like! You scanned me!
 content2: Du könntest jetzt bspw. auf der Landingpage/SocialMedia Kanal eines Pauschaleiseanbieters, Reisebüros, Airline, Online Travel Marktplatz etc. gelandet sein!
 ---

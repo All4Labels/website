@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/QVHD4g
+permalink: /demos/cookie/QVHD4g
 content1: Ganz schön generischer Call to Action! Oder?
 content2: …und trotzdem gescannt und hier gelandet! ,-)
 ---

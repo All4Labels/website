@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/VpRAJH
+permalink: /demos/cookie/VpRAJH
 content1: Cool! You made it!
 content2: Du könntest jetzt bspw. auf der Landingpage/SocialMedia Kanal eines Pauschaleiseanbieters, Reisebüros, Airline, Online Travel Marktplatz etc. gelandet sein!
 ---

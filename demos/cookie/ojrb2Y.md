@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/ojrb2Y
+permalink: /demos/cookie/ojrb2Y
 content1: Ganz schön generischer Call to Action! Oder?
 content2: …und trotzdem gescannt und hier gelandet! ,-)
 ---

@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/WEMm6m
+permalink: /demos/cookie/WEMm6m
 content1: Herzlichen Glückwunsch! Du hast es geschafft!
 content2: Du könntest jetzt bspw. auf der Landingpage/SocialMedia Kanal eines Automobilherstellers, Autohändlers, Mietwagenanbieters, Online Marktplatz etc. gelandet sein!
 ---

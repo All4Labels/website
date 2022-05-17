@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/30YVXP
+permalink: /demos/cookie/30YVXP
 content1: Oh, dieser Keks war nicht für dich gedacht!
 content2: Oh, this cookie wasn't meant for you!
 ---

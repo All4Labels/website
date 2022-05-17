@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/Ue3zuw
+permalink: /demos/cookie/Ue3zuw
 content1: Sammle Momente, nicht Dinge!
 content2: Collect moments, not things!
 ---

@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/UGiGw3
+permalink: /demos/cookie/UGiGw3
 content1: Du bist Kofetti für die Seele.
 content2: You are confetti for the soul.
 ---

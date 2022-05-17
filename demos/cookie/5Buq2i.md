@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/5Buq2i
+permalink: /demos/cookie/5Buq2i
 content1: OMG! Du bist auf unserer Landingpage!
 content2: Du könntest jetzt auf Stellenanzeigen eines Unternehmens, Online Job Portal etc. oder auch einfach nur auf einem Social Media Kanal gelandet sein. Welches Bewegtbild konvertiert besser? Einfach in unsrer Software re-direct anpassen und optimieren!
 ---

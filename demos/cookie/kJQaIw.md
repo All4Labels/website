@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/kJQaIw
+permalink: /demos/cookie/kJQaIw
 content1: Sammle Momente, nicht Dinge!
 content2: Collect moments, not things!
 ---

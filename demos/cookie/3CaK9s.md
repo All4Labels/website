@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/3CaK9s
+permalink: /demos/cookie/3CaK9s
 content1: Wann kommt Deine QR Campaign?
 content2: Du könntest jetzt bspw. auf der Landingpage/SocialMedia Kanal eines Pauschaleiseanbieters, Reisebüros, Airline, Online Travel Marktplatz etc. gelandet sein!
 ---

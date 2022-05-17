@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/d5ffKh
+permalink: /demos/cookie/d5ffKh
 content1: Veränderungen stehen vor der Tür. Lasse sie ruhig zu.
 content2: Changes are just around the corner. Take them.
 ---

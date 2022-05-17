@@ -1,6 +1,6 @@
 ---
 layout: co2
-permalink: /cookie/demos/xI6iOA
+permalink: /demos/cookie/xI6iOA
 content1: Cool! You made it!
 content2: Du könntest jetzt bspw. auf der Landingpage/SocialMedia Kanal eines Pauschaleiseanbieters, Reisebüros, Airline, Online Travel Marktplatz etc. gelandet sein!
 ---
