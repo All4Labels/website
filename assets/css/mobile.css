@@ -485,6 +485,7 @@ H2 {
     top:27px;
     width: 72px;
     left: calc(50% - 72px/2);
+    border: 0px;
 }
 .cookiekv_txt4{
     z-index: 100;

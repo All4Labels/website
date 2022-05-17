@@ -31,8 +31,9 @@ body {
 .start:hover {
     background: #1259a5;
 }
-.start:focus{
-    outline:4px solid #fce7f6;
+
+.start:focus {
+    outline: 4px solid #fce7f6;
 }
 
 .login {
@@ -74,12 +75,12 @@ body {
     color: #fff;
 }
 
-.Imprint {
-    position: absolute;
-    right: 0px;
+.Imprint,
+.Privacy {
+    float: right;
     width: 90px;
     height: 32px;
-    margin: 29px 0px;
+    margin: 29px 30px;
     text-align: center;
     line-height: 32px;
     color: #166DCA;
@@ -87,7 +88,8 @@ body {
     font-size: 16px;
 }
 
-.Imprint:hover {
+.Imprint:hover,
+.Privacy:hover {
     color: #91C0F3;
 }
 
@@ -265,12 +267,14 @@ H2 {
     height: 631px;
     background: linear-gradient(#0b325d, #125aa6);
 }
-.kv6 img{
+
+.kv6 img {
     position: absolute;
-    left:725px;
-    top:98px;
+    left: 725px;
+    top: 98px;
     z-index: 1;
 }
+
 .kv6text1 {
     position: absolute;
     width: 330px;
@@ -333,10 +337,11 @@ H2 {
     background-color: #F9FAFB;
     padding: 43px 0px;
 }
-.button{
+
+.button {
     padding: 9px;
     font-size: 12px;
-    color:#fff;
+    color: #fff;
     line-height: 18px;
     background: #166dca;
     text-align: center;
@@ -346,35 +351,44 @@ H2 {
     user-select: none;
     border-radius: 8px;
 }
+
 .button:hover {
     background: #1259a5;
 }
-.button:focus{
-    outline:4px solid #fce7f6;
+
+.button:focus {
+    outline: 4px solid #fce7f6;
 }
-.absright{
+
+.absright {
     position: absolute;
     right: 0px;
-    top:0px;
+    top: 0px;
 }
-.mobile{
+
+.mobile {
     display: none;
 }
+
 .cookiedesk {
     margin: 160px;
     min-height: calc(100vh - 470px);
 }
+
 .cookiedesk h1 {
     text-align: center;
     margin: 0px;
 }
+
 .startmain {
     width: 100%;
 }
-.calendly-inline-widget{
+
+.calendly-inline-widget {
     height: 750px;
 }
-.startmain h1{
+
+.startmain h1 {
     margin: 103px auto 0px auto;
     width: 781px;
 }

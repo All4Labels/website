@@ -61,5 +61,6 @@ layout: index
     </div>
 </div>
 <div class="foot">
-    <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href="/imprint" class="Imprint">Imprint</a>
+    <div class="copy">Copyright © 2022 QR Marketing GmbH. All rights reserved.</div><a href="/imprint" class="Imprint">Imprint</a><a href="https://all4labels.com/de/datenschutzerklaerung/"
+                class="Privacy">Privacy Policy</a>
 </div>
