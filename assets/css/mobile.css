@@ -474,6 +474,7 @@ H2 {
     line-height: 48px;
     text-align: center;
     width: 351px;
+    height: 150px;
     left: calc(50% - 351px/2);
     top: 20px;
     display: flex;
