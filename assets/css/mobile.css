@@ -452,11 +452,7 @@ H2 {
     text-align: center;
     width: 351px;
     left: calc(50% - 351px/2);
-    top: 5.2%;
-    height: 156px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    top: 126px;
 }
 
 .cookiekv_txt2 {
@@ -482,6 +478,24 @@ H2 {
     width: 293px;
     left: calc(50% - 146.5px);
     bottom: 3%;
+}
+.inlogo{
+    z-index: 100;
+    position: absolute;
+    top:27px;
+    width: 72px;
+    left: calc(50% - 72px/2);
+}
+.cookiekv_txt4{
+    z-index: 100;
+    position: absolute;
+    font-size: 16px;
+    color: #101828;
+    line-height: 24px;
+    text-align: center;
+    width: 293px;
+    left: calc(50% - 146.5px);
+    top: 62.28%;
 }
 .cookiekv2{
     background: #F9FAFB;
