@@ -99,13 +99,11 @@ H2 {
     color: #fff;
 }
 
-.Imprint {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    width: 90px;
+.Imprint,
+.Privacy  {
+    float: right;
     height: 24px;
-    margin: 12px 0px;
+    margin: 12px 12px;
     text-align: center;
     line-height: 32px;
     color: #91C0F3;
@@ -113,7 +111,8 @@ H2 {
     font-size: 14px;
 }
 
-.Imprint:hover {
+.Imprint:hover,
+.Privacy:hover {
     color: #91C0F3;
 }
 
