@@ -52,10 +52,11 @@ H2 {
 
 .start:hover {
     background: #1259a5;
-    
+
 }
-.start:focus{
-    outline:4px solid #fce7f6;
+
+.start:focus {
+    outline: 4px solid #fce7f6;
 }
 
 .login {
@@ -100,7 +101,7 @@ H2 {
 }
 
 .Imprint,
-.Privacy  {
+.Privacy {
     float: right;
     height: 24px;
     margin: 12px 12px;
@@ -309,7 +310,8 @@ H2 {
     height: 577px;
     overflow: hidden;
 }
-.kv6 img{
+
+.kv6 img {
     position: absolute;
     left: -20px;
     top: 256px;
@@ -420,9 +422,11 @@ H2 {
 .button:hover {
     background: #1259a5;
 }
-.button:focus{
-    outline:4px solid #fce7f6;
+
+.button:focus {
+    outline: 4px solid #fce7f6;
 }
+
 .absright {
     position: absolute;
     right: 0px;
@@ -433,12 +437,14 @@ H2 {
     position: relative;
     width: 100%;
 }
-.cookiekv-2{
+
+.cookiekv-2 {
     position: relative;
     width: 100%;
     height: 640px;
     overflow: hidden;
 }
+
 .cookiekv_img {
 
     width: 100%;
@@ -459,17 +465,37 @@ H2 {
     top: 126px;
 }
 
+.cookiekv_txt5 {
+    z-index: 100;
+    position: absolute;
+    font-size: 36px;
+    font-weight: bold;
+    color: #101828;
+    line-height: 48px;
+    text-align: center;
+    width: 351px;
+    left: calc(50% - 351px/2);
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .cookiekv_txt2 {
     z-index: 100;
     position: absolute;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: bold;
     color: #101828;
-    line-height: 28px;
+    line-height: 20px;
     text-align: center;
     width: 320px;
     left: calc(50% - 320px/2);
-    top: 62.28%;
+    top: 410px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .cookiekv_txt3 {
@@ -483,15 +509,17 @@ H2 {
     left: calc(50% - 146.5px);
     bottom: 3%;
 }
-.inlogo{
+
+.inlogo {
     z-index: 100;
     position: absolute;
-    top:27px;
+    top: 27px;
     width: 72px;
     left: calc(50% - 72px/2);
     border: 0px;
 }
-.cookiekv_txt4{
+
+.cookiekv_txt4 {
     z-index: 100;
     position: absolute;
     font-size: 16px;
@@ -502,13 +530,15 @@ H2 {
     left: calc(50% - 146.5px);
     top: 450px;
 }
-.cookiekv2{
+
+.cookiekv2 {
     background: #F9FAFB;
     width: 100%;
     height: 360px;
     position: relative;
 }
-.cookiekv2_txt1{
+
+.cookiekv2_txt1 {
     position: absolute;
     font-size: 20px;
     font-weight: bold;
@@ -519,39 +549,45 @@ H2 {
     left: calc(50% - 270px/2);
     top: 48px;
 }
-.cookiekv2_btn1{
+
+.cookiekv2_btn1 {
     position: absolute;
     width: 137px;
     left: calc(50% - 155px/2);
     top: 270px;
     margin: 0px;
 }
-.cookiekv3_text1{
+
+.cookiekv3_text1 {
     font-size: 24px;
     font-weight: bold;
     line-height: 30px;
     color: #101828;
 }
-.cookiekv3{
+
+.cookiekv3 {
     padding: 40px;
 }
-.cookiekv3 li{
+
+.cookiekv3 li {
     font-size: 16px;
-    font-weight:normal;
+    font-weight: normal;
     line-height: 24px;
     color: #101828;
 }
-.cookiekv3 ul{
+
+.cookiekv3 ul {
     padding: 0px 20px;
 }
 
-.cookiekv4{
+.cookiekv4 {
     background: #F9FAFB;
     width: 100%;
     height: 360px;
     position: relative;
 }
-.cookiekv4_txt1{
+
+.cookiekv4_txt1 {
     position: absolute;
     font-size: 24px;
     font-weight: bold;
@@ -562,26 +598,32 @@ H2 {
     left: calc(50% - 321px/2);
     top: 48px;
 }
-.cookiekv4 img{
+
+.cookiekv4 img {
     position: absolute;
-    top:173px;
-    left:65px;
+    top: 173px;
+    left: 65px;
 }
-.cookiekv4_btn{
+
+.cookiekv4_btn {
     position: absolute;
     left: 50%;
-    top:239px;
+    top: 239px;
 }
-.desk{
+
+.desk {
     display: none;
 }
+
 .startmain {
     width: 100%;
 }
-.calendly-inline-widget{
+
+.calendly-inline-widget {
     height: 750px;
 }
-.startmain h1{
+
+.startmain h1 {
     margin: 47px auto;
     width: 334px;
 }
