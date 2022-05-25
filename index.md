@@ -14,7 +14,7 @@ layout: index
     <div class="kv01sdiv">
         <img class="kv01s" src="/pictures/KV01s.png">
     </div>
-    <img class="phone" src="/pictures/iphones.png">
+    <img class="phone" src="/pictures/iphones.png?v=01">
 </div>
 <h2>Nothing can stop your customers from buying.</h2>
 <div class="kv2"><img src="/pictures/KV02s.jpg"></div>
@@ -45,7 +45,7 @@ layout: index
             <div class="kvtext1">Sell!</div>
             <div class="kvtext2">Your Window Shop is directly integrated with your E-commerce Shop.</div>
         </div>
-        <img src="/pictures/iphones.png">
+        <img src="/pictures/iphones.png?v=01">
     </div>
 </div>
 <div class="kv6">
