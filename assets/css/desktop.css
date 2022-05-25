@@ -123,6 +123,7 @@ H1 {
 .kv1 .phone {
     position: absolute;
     z-index: 100;
+    width: 300px;
     right: 140px;
     top: 110px;
     filter: drop-shadow(0px 4px 4px black);
@@ -249,6 +250,7 @@ H2 {
 
 .kv5 img {
     position: absolute;
+    width: 300px;
     right: 50px;
     transform: rotateZ(10deg);
     filter: drop-shadow(5px 10px 20px rgba(0, 0, 0, 0.404));
