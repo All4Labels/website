@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "express-ws": "^5.0.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.2",
+    "mongodb": "^4.5.0",
+    "node-libcurl": "^2.3.4",
+    "path": "^0.12.7",
+    "pbkdf2-password": "^1.2.1",
+    "request": "^2.88.2",
+    "urlencode": "^1.1.0"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  }
+}

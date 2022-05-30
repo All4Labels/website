@@ -28,6 +28,7 @@ body {
     text-align: center;
 }
 
+
 .Get_started:hover {
     background: #1259a5;
 }
@@ -392,4 +393,163 @@ H2 {
 .startmain h1 {
     margin: 103px auto 0px auto;
     width: 781px;
+}
+
+.head2 {
+    background: #2381e7;
+    overflow: hidden;
+    height: 480px;
+    width: 100%;
+    transition: all 0.5s;
+    position: relative;
+}
+
+.head2:hover {
+    background: #20449e;
+}
+
+.c1 {
+    position: absolute;
+    background: #00000000;
+    width: 140vw;
+    max-width: calc(1440px*1.4);
+    max-height: calc(1440px*1.4);
+    height: 140vw;
+    left: -20%;
+    border: 1px solid #166DCA;
+    border-radius: 100vw;
+    top: 20%;
+}
+
+.c2 {
+    position: absolute;
+    background: #00000000;
+    width: 100vw;
+    height: 100vw;
+    max-width: 1440px;
+    left: 0px;
+    max-height: 1440px;
+    border: 1px solid #166DCA;
+    border-radius: 100vw;
+    top: 60%;
+}
+
+.c3 {
+    position: absolute;
+    background: #00000000;
+    width: 80vw;
+    height: 80vw;
+    max-width: calc(1440px*0.8);
+    left: 10%;
+    max-height: calc(1440px*0.8);
+    border: 1px solid #166DCA;
+    border-radius: 100vw;
+    top: 80%;
+}
+
+.v0,
+.v1,
+.v2,
+.v3,
+.v4,
+.v5,
+.v6 {
+    position: absolute;
+    z-index: 2;
+
+}
+
+.v0 {
+    left: 10%;
+    top: 60%;
+}
+
+.v4 {
+    right: 10%;
+    top: 60%;
+}
+
+.v1 {
+    left: 25%;
+    top: 30%;
+}
+
+.v3 {
+    right: 25%;
+    top: 30%;
+}
+.v2{
+    left:calc(50% - 57px/2);
+    top:15%;
+}
+.v5{
+    right: 25%;
+    bottom: 10%;
+}
+.v6{
+    left: 25%;
+    bottom: 10%;
+}
+.Getting_started{
+    position: absolute;
+    right: 0px;
+    top:0px;
+    width: 112px;
+    height: 36px;
+    margin: 12px 12px;
+    background: #fff;
+    transition: all 0.5s;
+    font-size: 12px;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 8px;
+    color: #2381E7;
+    line-height: 36px;
+    text-align: center;
+    z-index: 200;
+}
+.Start_for_Free{
+    position: absolute;
+    left: calc(50% - 125px/2);
+    bottom:20px;
+    width: 101px;
+    height: 36px;
+    margin: 12px 12px;
+    background: #fff;
+    transition: all 0.5s;
+    font-size: 12px;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 8px;
+    color: #2381E7;
+    line-height: 36px;
+    text-align: center;
+    z-index: 200;
+}
+.head2 h1{
+    position: absolute;
+    font-size: 48px;
+    line-height: 120%;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+    width: 721px;
+    left:calc(50% - 721px/2);
+    top:183px;
+    margin: 0;
+    z-index: 200;
+}
+.head2 h2{
+    position: absolute;
+    font-size: 24px;
+    width: 556px;
+    left:calc(50% - 556px/2);
+    top:314px;
+    color: #fff;
+    font-weight: bolder;
+    margin: 0;
+    z-index: 200;
+}
+.logo2{
+    margin: 12px;
 }

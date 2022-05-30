@@ -1,12 +1,31 @@
 ---
 layout: index
 ---
+<!--
 <div class="head">
     <a href="/">
         <div class="logo"></div>
     </a>
     <a href="/getstarted"><div class="Get_started">Get Started</div></a>
     <div class="login">Login</div>
+</div>
+-->
+<div class="head2">
+    <a href="/"><img class="logo2" src="/assets/css/images/logo2.png"></a>
+    <a href="/getstarted"><div class="Getting_started">Getting started</div></a>
+    <h1>QR Marketing: <br>Connecting things with people</h1>
+    <h2>There is a QR, NFC, and RFID Tag for every thing</h2>
+    <a href="/getstarted"><div class="Start_for_Free">Start for Free</div></a>
+    <img class="v0" src="/pictures/Vector0.png">
+    <img class="v1" src="/pictures/Vector1.png">
+    <img class="v2" src="/pictures/Vector2.png">
+    <img class="v3" src="/pictures/Vector3.png">
+    <img class="v4" src="/pictures/Vector4.png">
+    <img class="v5" src="/pictures/Vector5.png">
+    <img class="v6" src="/pictures/Vector6.png">
+    <div class="c1"></div>
+    <div class="c2"></div>
+    <div class="c3"></div>
 </div>
 <div class="new">NEW</div>
 <h1>Window Shop is here.</h1>
