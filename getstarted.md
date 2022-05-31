@@ -11,7 +11,7 @@ layout: index
 <div class="startmain">
 <h1>Schedule time to meet with one of your QR Marketing Experts</h1>
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/windowshop" style="min-width:320px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/qrmarket" style="min-width:320px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 </div>
