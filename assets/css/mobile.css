@@ -756,7 +756,7 @@ width: 30px;
 .Start_for_Free{
     position: absolute;
     left: calc(50% - 125px/2);
-    bottom:20px;
+    top: 649px;
     width: 101px;
     height: 36px;
     margin: 12px 12px;
