@@ -88,7 +88,7 @@
                 class="Privacy">Privacy Policy</a>
         </div>
     </div>
-    <script>(function () {if (location.href.indexOf("TWalk_roomid") > 0 || sessionStorage.getItem("TWalk_roomid") != null) {var tw = document.createElement('script');tw.src = "https://twalktest.herokuapp.com/public/js/Twloading.js?v=" + Date.now();tw.setAttribute("crossorigin","true");document.body.appendChild(tw);}})();</script>
+    <script>(function () {if (location.href.indexOf("TWalk_roomid") > 0 || document.cookie.indexOf("TWalk_roomid") >= 0 || sessionStorage.getItem("TWalk_roomid") != null) {var tw = document.createElement('script');tw.src = "https://twalktest.herokuapp.com/public/js/Twloading.js?v=" + Date.now();tw.setAttribute("crossorigin","true");document.body.appendChild(tw);}})();</script>
 </body>
 
 </html>
