@@ -798,5 +798,8 @@ width: 30px;
     line-height: 120%;
 }
 .logo2{
+    position: absolute;
     margin: 12px;
+    left: 0px;
+    top: 0px;
 }
