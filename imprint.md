@@ -11,21 +11,18 @@ layout: index
 <div class="imprintcontent">
     <h1>Imprint</h1>
     <p>
-        All4Labels Smart + Secure GmbH<br>
-        Möllner Landstraße 15<br>
-        22969 Witzhave (Germany)
+        QR-Marketing GmbH a brand of All4Labels
+        WaterMarkTower
+        Überseeallee 10,
+        20457 Hamburg (Germany)
     </p>
     <p>
         Managing Director:<br>
         Nicolas Günther, Bram D'hondt
     </p>
     <p>
-        Trade Register:<br>
-        Lübeck HR B 3994 AH
-    </p>
-    <p>
-        VAT:<br>
-        DE 812 378 605
+        HRB 172300<br>
+        VAT: DE350047020
     </p>
     <p>
         Kontakt:<br>
