@@ -11,9 +11,9 @@ layout: index
 <div class="imprintcontent">
     <h1>Imprint</h1>
     <p>
-        QR-Marketing GmbH a brand of All4Labels
-        WaterMarkTower
-        Überseeallee 10,
+        QR-Marketing GmbH a brand of All4Labels<br>
+        WaterMarkTower<br>
+        Überseeallee 10,<br>
         20457 Hamburg (Germany)
     </p>
     <p>
