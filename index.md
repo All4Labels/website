@@ -11,7 +11,7 @@ layout: index
 </div>
 -->
 <div class="head2">
-    <a href="/"><img class="logo2" src="/assets/css/images/logo2.png"></a>
+    <a href="/"><img class="logo2" src="/assets/css/images/logo2.svg"></a>
     <a href="/getstarted"><div class="Getting_started">Getting started</div></a>
     <h1>QR Marketing: <br>Connecting things with people</h1>
     <h2>There is a QR, NFC, and RFID Tag for every thing</h2>

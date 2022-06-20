@@ -27,9 +27,9 @@ H2 {
 }
 
 .logo {
-    width: 154px;
-    height: 36px;
-    background: url('images/logo.png');
+    width: 202px;
+    height: 54px;
+    background: url('images/logo.svg') no-repeat;
     margin: 14px 15px;
 }
 
