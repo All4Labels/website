@@ -30,7 +30,7 @@ layout: index
         Fax: +49 (0)4104 / 693 - 2340
     </p>
     <p>
-        Email: smartandsecure@all4labels.com
+        Email: info@qrmarketing.com
      </p>
 </div>
 <div class="foot">
