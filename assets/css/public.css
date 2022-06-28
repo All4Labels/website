@@ -12,7 +12,15 @@
     font-stretch: "normal";
     font-weight: 400;
   }
-  
+  body {
+     margin: 0;
+     background-color: #fff;
+     color: #272D3E;
+     font-family: "Inter", "SF Pro Display", Arial, Helvetica, sans-serif;
+ }
+ a{
+     text-decoration: none;
+ }
 .head {
      width: 100%;
      height: 60px;

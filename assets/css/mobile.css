@@ -797,9 +797,184 @@ width: 30px;
     z-index: 200;
     line-height: 120%;
 }
-.logo2{
+
+
+
+
+.Page_top_blue {
+    position: relative;
+    width: calc(100% - 30px);
+    height: 737px;
+    background: #1F3059;
+    overflow: hidden;
+    padding: 15px;
+}
+
+.btn_common {
+    height: 48px;
+    width: 100%;
+    text-align: center;
+    border-radius: 8px;
+    line-height: 48px;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.btn_with_arrow {
+    height: 48px;
+    width: 100%;
+    text-align: center;
+    border-radius: 8px;
+    line-height: 48px;
+    font-size: 16px;
+    text-decoration: none;
+    background: url('images/ArrowRight.svg') no-repeat;
+    background-position: right 35px center;
+}
+
+.btn_white {
+    color: #084595;
+    background-color: #fff;
+}
+
+.btn_text_underline {
+    height: 48px;
+    width: 100%;
+    text-decoration: underline;
+    line-height: 48px;
+}
+
+.btn_none {
+    color: #fff;
+}
+
+.menubar {
+    position: relative;
+    height: 72px;
+    line-height: 72px;
+    background: url('images/menuicon.svg') no-repeat;
+    background-position: right top 15px;
+}
+
+.logo2 {
+    background: url('images/logo.svg') no-repeat;
+    background-size: 100%;
+    width: 144px;
+    height: 42px;
+}
+
+
+.pagetop_content {
     position: absolute;
-    margin: 5px 12px;
+    top: 396px;
+    left: 0px;
+    width: 100%;
+}
+
+.Page_top_blue h1 {
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 110%;
+    text-align: center;
+    width: calc(100% - 20px);
+    margin: 20px auto;
+}
+
+.Page_top_blue h2 {
+    color: #fff;
+    font-size: 18px;
+    line-height: 110%;
+    width: calc(100% - 100px);
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+
+.pagetop_img_1 {
+    position: absolute;
+    z-index: 3;
+    width: 62.4%;
+    left: 11.7%;
+    top: 129px;
+}
+
+.pagetop_img_2 {
+    position: absolute;
+    z-index: 2;
+    width: 28.8%;
+    left: 57.3%;
+    top: 256px;
+}
+
+.pagetop_img_3 {
+    position: absolute;
+    z-index: 1;
+    width: 64%;
+    left: 25%;
+    top: 70px;
+}
+
+.pagetop_btn {
+    position: relative;
+}
+
+.Schedule_A_Demo {
+
+    width: calc(100% - 30px);
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+
+.How_it_works {
+    text-align: center;
+    width: calc(100% - 30px);
+    position: absolute;
+    top: 65px;
+    left: 15px;
+}
+
+.Top_menu {
+    display: none;
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    height: 256px;
+    left: 0px;
+    top: 109px;
+    border-top: 1px solid #ffffff20;
+}
+
+
+.Top_menu div {
+    color: #fff;
+    font-size: 18px;
+    width: 290px;
+    border-bottom: 1px solid #ffffff20;
+    margin: 0 auto;
+    line-height: 80px;
+    height: 70px;
+}
+
+.Book_a_Demo {
+    position: absolute;
+    display: none;
+    z-index: 102;
+    width: 285px;
+    left: calc(50% - 285px/2);
+    top: 431px;
+}
+
+.onopen {
+    position: absolute;
+    z-index: 100;
+    width: calc(100% - 30px);
+    height: 100%;
     left: 0px;
     top: 0px;
+    padding: 15px;
+    background: url(images/menuicon2.svg) #1F3059 no-repeat;
+    background-position: right 15px top 30px;
 }
