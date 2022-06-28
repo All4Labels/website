@@ -75,9 +75,9 @@ layout: index
                             ${button_rander(component.fields.buttonScheduleADemo)}
                             </div>
                         </div>
-                        <img class="pagetop_img_1" src="/public/css/images/pagetop_img_1.png">
-                        <img class="pagetop_img_2" src="/public/css/images/pagetop_img_2.svg">
-                        <img class="pagetop_img_3" src="/public/css/images/pagetop_img_3.svg">
+                        <img class="pagetop_img_1" src="/assets/css/images/pagetop_img_1.png">
+                        <img class="pagetop_img_2" src="/assets/css/images/pagetop_img_2.svg">
+                        <img class="pagetop_img_3" src="/assets/css/images/pagetop_img_3.svg">
                         </div>
                     `;
                     $(".main").prepend(template);
